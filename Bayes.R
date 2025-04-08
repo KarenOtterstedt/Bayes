@@ -1,1 +1,2 @@
 #BAYES
+library(ggplot2)
